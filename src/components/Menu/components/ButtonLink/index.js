@@ -1,16 +1,19 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-function ButtonLink(props) {
-    //props => { className: "o que alguém passar", href="/" }
+/*function ButtonLink(props) {    
     console.log(props);
   return (
     <a href={props.href} className={props.className}>
         Novo Vídeo
     </a>
-    /*<a className={className} href={href}>
+  );
+}*/
+function ButtonLink({ className, href, children }) {
+  return (
+    <a className={className} href={href}>
       {children}
-    </a>*/
+    </a>
   );
 }
 

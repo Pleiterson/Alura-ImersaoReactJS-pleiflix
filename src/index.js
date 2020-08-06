@@ -9,7 +9,16 @@ import CadastroCategoria from './pages/cadastro/Categoria';
 
 
 //falta fazer rodar o link da imersao gamedev
-const Pagina404 = () => (<link href="https://editor.p5js.org/pleiterson/full/1RMkKmkOm" />)
+const Pagina404 = () => (
+  <div>
+    <h1>Página não encontrada</h1>
+    <iframe
+      title="As Aventuras de Hipsta"
+      src="https://editor.p5js.org/pleiterson/embed/1RMkKmkOm"
+      width="1280"
+      height="450" />
+  </div>
+)
 
 ReactDOM.render(
   <BrowserRouter>
@@ -20,9 +29,5 @@ ReactDOM.render(
       <Route component={Pagina404} />
     </Switch>
   </BrowserRouter>,
-
-  /*<React.StrictMode>
-    <Home />
-  </React.StrictMode>,*/
   document.getElementById('root')
 );
