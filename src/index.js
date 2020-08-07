@@ -7,18 +7,25 @@ import Home from './pages/Home';
 import CadastroVideo from './pages/cadastro/Video';
 import CadastroCategoria from './pages/cadastro/Categoria';
 
-
-//falta fazer rodar o link da imersao gamedev
+// falta fazer rodar o link da imersao gamedev
 const Pagina404 = () => (
-  <div>
-    <h1>Página não encontrada</h1>
+  <div style={{
+    display: 'flex', alignItems: 'center', justifyContent: 'center', flexDirection: 'column',
+  }}
+  >
+    <h1>Ops, quebrou tudo :O</h1>
+    <p>
+      <a href="/">Você pode jogar ou voltar pra home :)</a>
+    </p>
+
     <iframe
       title="As Aventuras de Hipsta"
       src="https://editor.p5js.org/pleiterson/embed/1RMkKmkOm"
-      width="1280"
-      height="450" />
+      width="1250"
+      height="420"
+    />
   </div>
-)
+);
 
 ReactDOM.render(
   <BrowserRouter>
@@ -29,5 +36,5 @@ ReactDOM.render(
       <Route component={Pagina404} />
     </Switch>
   </BrowserRouter>,
-  document.getElementById('root')
+  document.getElementById('root'),
 );
