@@ -11,11 +11,11 @@
     },
     {
       "id": 2,
-      "titulo": "Back End",
+      "titulo": "Bike Trilhas de Minas",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Vídeos das trilhas de uma equipe familiar Bike Trilhas de Minas",
+        "url": "https://www.youtube.com/playlist?list=PL8880BECEC1213E3E"
       }
     },
     {
@@ -46,14 +46,14 @@
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "Far Cry 4 - Em Shangri-lá: O Tigre [XBOX ONE]",
-      "url": "https://www.youtube.com/watch?v=trw86d7YjqY"
+      "titulo": "Tom Clancy's - Ghost Recon: Wildlands - Cena final épica [XBOX ONE]",
+      "url": "https://www.youtube.com/watch?v=xun59hom7AI"
     },
     {
       "id": 2,
       "categoriaId": 1,
-      "titulo": "Tom Clancy's - Ghost Recon: Wildlands - Cena final épica [XBOX ONE]",
-      "url": "https://www.youtube.com/watch?v=xun59hom7AI"
+      "titulo": "Far Cry 4 - Em Shangri-lá: O Tigre [XBOX ONE]",
+      "url": "https://www.youtube.com/watch?v=trw86d7YjqY"
     },
     {
       "id": 3,
@@ -88,33 +88,15 @@
     {
       "id": 8,
       "categoriaId": 2,
-      "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-      "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+      "titulo": "Bike Trilhas de Minas - Retiro das Pedras",
+      "url": "https://www.youtube.com/watch?v=w77_JHyGNPk"
     },
     {
       "id": 9,
       "categoriaId": 2,
-      "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-      "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-    },
-    {
-      "id": 10,
-      "categoriaId": 2,
-      "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-      "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-    },
-    {
-      "id": 11,
-      "categoriaId": 2,
-      "titulo": "API: Dicionário do Programador",
-      "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-    },
-    {
-      "id": 12,
-      "categoriaId": 2,
-      "titulo": "Usando Git Direito",
-      "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-    },
+      "titulo": "Galera Bike trilha de minas",
+      "url": "https://www.youtube.com/watch?v=hY8MUVazzDs"
+    },    
     {
       "id": 13,
       "categoriaId": 3,
