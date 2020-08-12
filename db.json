@@ -2,11 +2,11 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "Front End",
+      "titulo": "Clipes de Jogos Xbox One [DVR]",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Meu canal no YouTube: Vídeos curtos dos jogos que jogo no Xbox",
+        "url": "https://www.youtube.com/user/pleiterson"
       }
     },
     {

@@ -46,7 +46,6 @@ function CadastroCategoria() {
         clearForm();
       }}
       >
-
         <FormField
           label="Nome da Categoria"
           name="nome"
