@@ -32,7 +32,7 @@ function CadastroCategoria() {
   return (
     <PageDefault>
       <h1>
-        Cadastro de Categoria:
+        Cadastro de Categorias:
         {values.nome}
       </h1>
 

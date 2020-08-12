@@ -12,11 +12,11 @@ const Container = styled.ul`
     top: 0;
     bottom: 0;
     margin: auto;
-    width: 30px;
-    height: 30px;
+    width: 15px;
+    height: 15px;
     transform: initial;
     &:before {
-      font-size: 30px;
+      font-size: 10px;
     }
   }
   
@@ -32,8 +32,8 @@ export const SliderItem = styled.li`
   margin-right: 16px;
   img {
     margin: 16px;
-    width: 298px;
-    height: 197px;
+    width: 200px;
+    height: 120px;
     object-fit: cover;
   }
 `;

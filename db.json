@@ -20,26 +20,22 @@
     },
     {
       "id": 3,
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Marido Aprendiz [Receitas]",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/cursos-online-mobile"
+        "text": "Vídeos de receitas feitas por um Marido que nunca se deu bem na cozinha",
+        "url": "https://www.youtube.com/playlist?list=PLlNghTOp2dwQeEIWpdh3IHRnain2jJ__0"
       }
     },
     {
       "id": 4,
-      "titulo": "Filmes",
+      "titulo": "Cursos de Programação",
       "cor": "orange"
     },
     {
       "id": 5,
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      }
+      "titulo": "Filmes",
+      "cor": "red"
     }
   ],
   "videos": [

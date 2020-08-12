@@ -1,13 +1,13 @@
 import styled from 'styled-components';
 
-export const Title = styled.h3`
+export const Title = styled.h4`
   font-style: normal;
   font-weight: normal;
-  font-size: 35px;
+  font-size: 20px; // tamanho da fonte do título da categoria na Home
   line-height: 1;
   margin-bottom: 16px;
   display: inline-block;
-  padding: 20px;
+  padding: 10px; // tamanho da altura da caixa do título da categoria na Home
   background: red;
   line-height: 1;
   border-radius: 4px;
