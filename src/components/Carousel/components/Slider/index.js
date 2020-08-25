@@ -23,6 +23,7 @@ const Container = styled.ul`
   .slick-prev {
     left: 0;
   }
+  
   .slick-next {
     right: 16px;
   }

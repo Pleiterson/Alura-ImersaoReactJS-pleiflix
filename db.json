@@ -2,29 +2,25 @@
   "categorias": [
     {
       "id": 1,
+      "titulo": "Filmes [Trailers]",
+      "cor": "#6BD1FF"      
+    },
+    {
+      "id": 2,
       "titulo": "Clipes de Jogos Xbox One [DVR]",
-      "cor": "#6BD1FF",
+      "cor": "#00C86F",
       "link_extra": {
         "text": "Meu canal no YouTube: Vídeos curtos dos jogos que jogo no Xbox",
         "url": "https://www.youtube.com/user/pleiterson"
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "titulo": "Bike Trilhas de Minas",
-      "cor": "#00C86F",
+      "cor": "#9cd33b",
       "link_extra": {
         "text": "Vídeos das trilhas de uma equipe familiar Bike Trilhas de Minas",
         "url": "https://www.youtube.com/playlist?list=PL8880BECEC1213E3E"
-      }
-    },
-    {
-      "id": 3,
-      "titulo": "Marido Aprendiz [Receitas]",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Vídeos de receitas feitas por um Marido que nunca se deu bem na cozinha",
-        "url": "https://www.youtube.com/playlist?list=PLlNghTOp2dwQeEIWpdh3IHRnain2jJ__0"
       }
     },
     {
@@ -42,152 +38,158 @@
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "Call Of Duty: Modern Warfare - O início da campanha [PC] - Canal SinxPlays",
-      "url": "https://www.youtube.com/watch?v=3IMyVZhO22g"
+      "titulo": "Halo 5: Guardians O FILME (Todas as Cutscenes Dublado)",
+      "url": "https://www.youtube.com/watch?v=y9TsE6Ajl8M"
     },
     {
       "id": 2,
-      "categoriaId": 1,
+      "categoriaId": 2,
       "titulo": "Tom Clancy's - Ghost Recon: Wildlands - Cena final épica [XBOX ONE]",
       "url": "https://www.youtube.com/watch?v=xun59hom7AI"
     },
     {
       "id": 3,
-      "categoriaId": 1,
+      "categoriaId": 2,
       "titulo": "Tom Clancy's - Ghost Recon: Wildlands - Melhor gráfico, melhor jogo da série [XBOX ONE]",
       "url": "https://www.youtube.com/watch?v=YvTZrhkCmHs"
     },
     {
       "id": 4,
-      "categoriaId": 1,
+      "categoriaId": 2,
       "titulo": "Halo 4: The Master Chief Collection - Os gráficos deste jogo é foda [XBOX ONE]",
       "url": "https://www.youtube.com/watch?v=gGUMN3cMDdI"
     },
     {
       "id": 5,
-      "categoriaId": 1,
+      "categoriaId": 2,
       "titulo": "Halo 3: The Master Chief Collection - O Alien bugou no break [XBOX ONE]",
       "url": "https://www.youtube.com/watch?v=TZhRKJn12lo"
     },
     {
       "id": 6,
-      "categoriaId": 1,
+      "categoriaId": 2,
       "titulo": "Far Cry Primal - Flecha tripla de fogo [XBOX ONE]",
       "url": "https://www.youtube.com/watch?v=dr23sg4YUeg"
     },
     {
       "id": 7,
-      "categoriaId": 1,
+      "categoriaId": 2,
       "titulo": "Far Cry 4 - Em Shangri-lá: Final [XBOX ONE]",
       "url": "https://www.youtube.com/watch?v=E1lluU1tj_w"
     },
     {
       "id": 8,
-      "categoriaId": 2,
+      "categoriaId": 3,
       "titulo": "Bike Trilhas de Minas - Retiro das Pedras",
       "url": "https://www.youtube.com/watch?v=w77_JHyGNPk"
     },
     {
       "id": 9,
-      "categoriaId": 2,
+      "categoriaId": 3,
       "titulo": "Galera Bike trilha de minas",
       "url": "https://www.youtube.com/watch?v=hY8MUVazzDs"
     },    
     {
+      "id": 10,
+      "categoriaId": 4,
+      "titulo": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c"
+    },
+    {
+      "id": 11,
+      "categoriaId": 4,
+      "titulo": "Jogo com JavaScript #02: Troca de Telas e Gravidade",
+      "url": "https://www.youtube.com/watch?v=6ubysIIjarI"
+    },
+    {
+      "id": 12,
+      "categoriaId": 4,
+      "titulo": "Jogo com JavaScript #03: Colisão, Pulo, Web Audio API feat. Soco do Ryu",
+      "url": "https://www.youtube.com/watch?v=ddG60OX7_8A"
+    },
+    {
       "id": 13,
-      "categoriaId": 3,
-      "titulo": "Teste de Turing",
-      "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+      "categoriaId": 4,
+      "titulo": "Jogo com JavaScript #04: Cenário infinito e animando o passarinho com frames",
+      "url": "https://www.youtube.com/watch?v=9BZspL5MRvQ"
     },
     {
       "id": 14,
-      "categoriaId": 3,
-      "titulo": "O que é Data Science?",
-      "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+      "categoriaId": 4,
+      "titulo": "Jogo com JavaScript #05: Desenhando obstáculos dinamicamente e detectando Colisão",
+      "url": "https://www.youtube.com/watch?v=BJSFJNlRpp0"
     },
     {
       "id": 15,
-      "categoriaId": 3,
-      "titulo": "Melhor forma de aprender Python",
-      "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+      "categoriaId": 5,
+      "titulo": "Jornada de Consultores - Aula 1 - Primeiros passos para você iniciar a sua atuação como consultor",
+      "url": "https://www.youtube.com/watch?v=LETLIt4cd5g"
     },
     {
       "id": 16,
-      "categoriaId": 3,
-      "titulo": "Como ingressar no mercado de Data Science?",
-      "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+      "categoriaId": 5,
+      "titulo": "Jornada de Consultores - Aula 2 - A arte de vender: de vendedor a mestre em persuasão",
+      "url": "https://www.youtube.com/watch?v=AeITEj2hqoQ"
     },
     {
       "id": 17,
-      "categoriaId": 4,
-      "titulo": "Interestellar",
-      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+      "categoriaId": 5,
+      "titulo": "Jornada de Consultores: Aula 3 - Modelos de adequação à LGPD",
+      "url": "https://www.youtube.com/watch?v=85_pAABAN50"
     },
     {
       "id": 18,
-      "categoriaId": 4,
-      "titulo": "Gattaca",
-      "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+      "categoriaId": 5,
+      "titulo": "Jornada de Consultores: Aula 4 - Estratégias de consultoria e Mapeamento de Processos",
+      "url": "https://www.youtube.com/watch?v=FvjNNi-kJug"
     },
     {
       "id": 19,
-      "categoriaId": 4,
-      "titulo": "A Chegada",
-      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+      "categoriaId": 5,
+      "titulo": "Jornada de Consultores: Aula 5 - Transição de Carreira, Elaboração de Propostas e Desenho com BPMN",
+      "url": "https://www.youtube.com/watch?v=9oigZwJRJEg"
     },
     {
       "id": 20,
-      "categoriaId": 4,
-      "titulo": "Feitiço do Tempo",
-      "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+      "categoriaId": 1,
+      "titulo": "Vingadores: Ultimato | Trailer Legendado",
+      "url": "https://www.youtube.com/watch?v=g6ng8iy-l0U"
     },
     {
       "id": 21,
-      "categoriaId": 5,
-      "titulo": "Final Fantasy 7",
-      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-    },
-    {
-      "id": 22,
-      "categoriaId": 5,
-      "titulo": "Assassins Creed Valhalla",
-      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-    },
-    {
-      "id": 23,
-      "categoriaId": 5,
-      "titulo": "God of War 4",
-      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-    },
-    {
-      "id": 24,
-      "categoriaId": 5,
-      "titulo": "Resident Evil 8",
-      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+      "categoriaId": 1,
+      "titulo": "Batman | Teaser Trailer Legendado",
+      "url": "https://www.youtube.com/watch?v=fbS0efVvkVU"
     },
     {
       "titulo": "Far Cry 4 - Em Shangri-lá: O Arco [XBOX ONE]",
       "url": "https://www.youtube.com/watch?v=Pb2eM3n3qAI",
-      "categoriaId": 1,
-      "id": 25
+      "categoriaId": 2,
+      "id": 22
     },
     {
       "titulo": "Far Cry 4 - Noore virou presunto [XBOX ONE]",
       "url": "https://www.youtube.com/watch?v=LmciMIaF3U4",
-      "categoriaId": 1,
-      "id": 26
+      "categoriaId": 2,
+      "id": 23
     },
     {
       "titulo": "Far Cry 4 - Rolê de Wingsuit nas montanhas de Kyrat [XBOX ONE]",
       "url": "https://www.youtube.com/watch?v=u8Ld_ISsvws",
-      "categoriaId": 1,
-      "id": 27
+      "categoriaId": 2,
+      "id": 24
     },
     {
       "titulo": "Far Cry 4 - Salvando o Tigre, Sniper [XBOX ONE]",
       "url": "https://www.youtube.com/watch?v=qtdJjc6SrYU",
+      "categoriaId": 2,
+      "id": 25
+    },
+    {
+      "id": 26,
       "categoriaId": 1,
-      "id": 28
+      "titulo": "Mulher-Maravilha 1984 | Trailer Legendado",
+      "url": "https://www.youtube.com/watch?v=Y5BejyusI2s"
     }
   ]
 }

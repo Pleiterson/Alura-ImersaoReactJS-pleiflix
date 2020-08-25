@@ -7,7 +7,6 @@ import Home from './pages/Home';
 import CadastroVideo from './pages/cadastro/Video';
 import CadastroCategoria from './pages/cadastro/Categoria';
 
-// falta fazer rodar o link da imersao gamedev
 const Pagina404 = () => (
   <div style={{
     display: 'flex', alignItems: 'center', justifyContent: 'center', flexDirection: 'column',
@@ -20,9 +19,9 @@ const Pagina404 = () => (
 
     <iframe
       title="As Aventuras de Hipsta"
-      src="https://editor.p5js.org/pleiterson/embed/1RMkKmkOm"
-      width="1250"
-      height="420"
+      src="https://imersaogamedev-javascript.vercel.app/"
+      width="1220"
+      height="450"
     />
   </div>
 );
