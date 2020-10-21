@@ -3,7 +3,7 @@
     {
       "id": 1,
       "titulo": "Filmes [Trailers]",
-      "cor": "#6BD1FF"      
+      "cor": "#6BD1FF"
     },
     {
       "id": 2,
@@ -88,7 +88,7 @@
       "categoriaId": 3,
       "titulo": "Galera Bike trilha de minas",
       "url": "https://www.youtube.com/watch?v=hY8MUVazzDs"
-    },    
+    },
     {
       "id": 10,
       "categoriaId": 4,
@@ -190,6 +190,12 @@
       "categoriaId": 1,
       "titulo": "Mulher-Maravilha 1984 | Trailer Legendado",
       "url": "https://www.youtube.com/watch?v=Y5BejyusI2s"
+    },
+    {
+      "titulo": "Recriando o Pipefy do zero",
+      "url": "https://www.youtube.com/watch?v=awRtgpRsdTQ",
+      "categoriaId": 4,
+      "id": 27
     }
   ]
 }

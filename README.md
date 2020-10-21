@@ -1,4 +1,4 @@
-<!-- Badges session -->
+﻿<!-- Badges session -->
 <p align="center">  
   <!-- languages -->
   <img src="https://img.shields.io/github/languages/count/pleiterson/imersao-reactjs-pleiflix?style=social" alt="Linguagens utilizadas">
@@ -12,8 +12,9 @@
 
 
 <!--Banner session-->
-<img src="./assets-readme/imersao-banner.png" alt="Imersão Banner" title="Imersão ReactJS - Alura">
-
+<p align="center">
+  <img src="./assets-readme/imersao-banner.png" alt="Imersão Banner" title="Imersão ReactJS - Alura">
+</p>
 
 <!--About session-->
 <h1 align="center">🤿 Imersão ReactJS 🤿<br>Alura</h1>
@@ -25,6 +26,8 @@ Nesta Imersão, o objetivo foi criar uma aplicação com React, do zero! Uma App
 - Entender o protocolo HTTP, aprender como enviar e buscar dados de um back-end, adicionar suporte de validação em nossos campos e colocar a cópia do seu projeto no ar.
 
 <b>Nesta imersão eu realizei a [PleiFlix](https://pleiflix.vercel.app), onde coloquei os conteúdos nos quais estou estudando, ainda tem mais conteúdos para catalogar, e serão realizados com o tempo.</b>
+
+<p align="center"><img src="./assets-readme/home-pleiflix.gif"></p>
 
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
@@ -84,8 +87,6 @@ Nesta Imersão, o objetivo foi criar uma aplicação com React, do zero! Uma App
 
 Este projeto está sob a licença [MIT](./LICENSE).
 
-
-<p align="center"><img src="./assets-readme/home-pleiflix.png"></p>
 
 <!--Bottom session-->
 <h4 align="center">Made with by <a href="https://www.linkedin.com/in/pleiterson">Pleiterson Amorim</a></h4>

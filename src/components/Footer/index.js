@@ -4,14 +4,25 @@ import { FooterBase } from './styles';
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://www.alura.com.br/">
-        <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
-      </a>
       <p>
-        Orgulhosamente criado durante a
+        Projeto desenvolvido na
         {' '}
         <a href="https://www.alura.com.br/">
           Imersão React da Alura
+        </a>
+      </p>
+      <p>
+        Repositório GitHub
+        {' '}
+        <a href="https://github.com/Pleiterson/imersao-reactjs-pleiflix">
+          deste projeto
+        </a>
+      </p>
+      <p>
+        Desenvolvido por
+        {' '}
+        <a href="https://www.linkedin.com/in/pleiterson/">
+          Pleiterson Amorim
         </a>
       </p>
     </FooterBase>
