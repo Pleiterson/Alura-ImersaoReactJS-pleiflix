@@ -28,6 +28,7 @@ Nesta Imersão, o objetivo foi criar uma aplicação com React, do zero! Uma App
 <b>Nesta imersão eu realizei a [PleiFlix](https://pleiflix.vercel.app), onde coloquei os conteúdos nos quais estou estudando, ainda tem mais conteúdos para catalogar, e serão realizados com o tempo.</b>
 
 <p align="center"><img src="./assets-readme/home-pleiflix.gif"></p>
+<p align="center"><img src="./assets-readme/pleiflix-responsivo.gif"></p>
 
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
