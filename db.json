@@ -196,6 +196,18 @@
       "url": "https://www.youtube.com/watch?v=awRtgpRsdTQ",
       "categoriaId": 4,
       "id": 27
+    },
+    {
+      "titulo": "Recirando a Interface do Discord",
+      "url": "https://www.youtube.com/watch?v=x4FdZd2-_uU",
+      "categoriaId": 4,
+      "id": 28
+    },
+    {
+      "titulo": "Recriando a Interface do GitHub",
+      "url": "https://www.youtube.com/watch?v=iLEbGQXsg3k",
+      "categoriaId": 4,
+      "id": 29
     }
   ]
 }

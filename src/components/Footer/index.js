@@ -5,23 +5,25 @@ function Footer() {
   return (
     <FooterBase>
       <p>
-        Projeto desenvolvido na
+        Projeto desenvolvido na Imersão React da
         {' '}
-        <a href="https://www.alura.com.br/">
-          Imersão React da Alura
+        <a target="_blank" href="https://www.alura.com.br/">
+          Alura
         </a>
       </p>
       <p>
-        Repositório GitHub
+        Repositório
         {' '}
-        <a href="https://github.com/Pleiterson/imersao-reactjs-pleiflix">
-          deste projeto
+        <a target="_blank" href="https://github.com/Pleiterson/imersao-reactjs-pleiflix">
+          GitHub
         </a>
+        {' '}
+        deste projeto
       </p>
       <p>
         Desenvolvido por
         {' '}
-        <a href="https://www.linkedin.com/in/pleiterson/">
+        <a target="_blank" href="https://pleiterson.vercel.app">
           Pleiterson Amorim
         </a>
       </p>
